@@ -14,6 +14,11 @@
 
 Форма для ваших контактных данных и ссылок на репозитории [тут](https://goo.gl/forms/AJP9dV837DScXt9g1).
 
+В качестве лекционной части предлагается прослушать 3 мини-курса с портала Coursera, а также несколько видеолекций от разных авторов.
+* [Getting Started with Python](https://www.coursera.org/learn/python/home/welcome) (27 января -- 3 марта)
+* [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining/home/welcome) (10 марта -- 7 апреля)
+* [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis/home/welcome) (28 апреля -- 2 июня)
+
 | Дата | Лекция | Семинар | Домашнее задание | Дедлайн |
 |------|--------|---------|------------------|---------|
 |13 января|--|Работа с GitHub||
