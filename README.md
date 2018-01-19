@@ -12,7 +12,7 @@
 * [телеграм](https://t.me/NickVeld)
 * [вк](https://vk.com/kolabnya)
 
-Форма для ваших контактных данных и ссылок на репозитории [тут](https://goo.gl/forms/AJP9dV837DScXt9g1).
+**NB!** Форма для ваших контактных данных и ссылок на репозитории [тут](https://goo.gl/forms/AJP9dV837DScXt9g1).
 
 В качестве лекционной части предлагается прослушать 3 мини-курса с портала Coursera, а также несколько видеолекций от разных авторов.
 * [Getting Started with Python](https://www.coursera.org/learn/python/home/welcome) (27 января -- 3 марта)
@@ -35,8 +35,8 @@
 |7 апреля|[Topic Modelling](https://www.coursera.org/learn/python-text-mining/lecture/DpNWl/semantic-text-similarity)|||
 |14 апреля|QA Systems|||
 |21 апреля|Distributional Semantics|||
-|28 апреля|[Networks](https://www.coursera.org/learn/python-social-network-analysis/lecture/moENa/networks-definition-and-why-we-study-them)|||
-|5 мая|?|||
+|28 апреля|Text Generation|||
+|5 мая|[Networks](https://www.coursera.org/learn/python-social-network-analysis/lecture/moENa/networks-definition-and-why-we-study-them)|||
 |12 мая|[Clustering Coefficient I](https://www.coursera.org/learn/python-social-network-analysis/lecture/ZhNvi/clustering-coefficient), <br> [Clustering Coefficient II](https://www.dropbox.com/s/8e7r64lw3ngvnal/LingNet-Lecture2.mp4?dl=0)|||
 |19 мая|[Degree and Centrality I](https://www.coursera.org/learn/python-social-network-analysis/lecture/noB1S/degree-and-closeness-centrality), <br> [Degree and Centrality II](https://www.dropbox.com/s/qby0u393762cu2z/LingNet-Lecture3.mp4?dl=0)|||
 |26 мая|[Network Structure I](https://www.dropbox.com/s/w3vz5l1zcev4c1n/LingNet-Lecture4.mp4?dl=0), <br> [Network Structure II, pt.1](https://www.dropbox.com/s/uiydgnahmlj89p6/LingNet-Lecture5.1.mp4?dl=0), <br> [Network Structure II, pt.2](https://www.dropbox.com/s/t5vjp0kyzpefoii/LingNet-Lecture5.2.mp4?dl=0)|||
