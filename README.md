@@ -21,7 +21,7 @@
 
 | Дата | Лекция | Семинар | Домашнее задание | Дедлайн |
 |------|--------|---------|------------------|---------|
-|13 января|--|Работа с GitHub|[HW1](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW1.md)|20 января, сб, 23:59
+|13 января|--|Работа с GitHub|[HW1](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW1.md)|27 января, сб, 23:59
 |20 января|--|Markdown и HTML||
 |27 января|[Introduction to Python](https://www.coursera.org/learn/python/lecture/42bfN/1-4-writing-paragraphs-of-code )|||
 |3 февраля |--|--||
