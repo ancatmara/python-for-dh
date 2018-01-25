@@ -23,7 +23,7 @@
 |------|--------|---------|------------------|---------|
 |13 января|--|Работа с GitHub|[HW1](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW1.md)|27 января, сб, 23:59
 |20 января|--|Markdown и HTML|[HW2](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW2.md)|27 января, сб, 23:59
-|27 января|[Introduction to Python](https://www.coursera.org/learn/python/lecture/42bfN/1-4-writing-paragraphs-of-code )|||
+|27 января|[Welcome to Programming](https://www.coursera.org/learn/python/lecture/GoNcs/video-welcome-to-class-dr-chuck)<br>[Installing Python](https://www.coursera.org/learn/python/lecture/NOGpo/demonstration-using-the-python-playground)<br>[Introduction to Python](https://www.coursera.org/learn/python/lecture/42bfN/1-4-writing-paragraphs-of-code )|||
 |3 февраля |--|--||
 |10 февраля|[Variables and Expressions](https://www.coursera.org/learn/python/lecture/YzVMj/2-1-expressions)|||
 |17 февраля|[Conditional Statements](https://www.coursera.org/learn/python/lecture/e17Xm/3-1-conditional-statements)|||
