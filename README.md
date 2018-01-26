@@ -1,5 +1,7 @@
 # Компьютерные методы анализа художественного текста
 
+**Ведомость**: [нажмите сюда](https://docs.google.com/spreadsheets/d/e/2PACX-1vTixOmd-OHvlW2Uda4ch1cJjz9JTj0-zS50ueNoaQVOeQZ61GMIhCSzA7laf57qI-cOKy8DghXNwIFr/pubhtml?gid=419535140&single=true)
+
 **Семинарист**: Оксана Дереза
 
 * [почта](mailto:oksana.dereza@gmail.com)
