@@ -29,8 +29,8 @@
 |3 февраля |--|--||
 |10 февраля|[Variables and Expressions](https://www.coursera.org/learn/python/lecture/YzVMj/2-1-expressions)<br>[Conditional Statements](https://www.coursera.org/learn/python/lecture/e17Xm/3-1-conditional-statements)|[Python Expressions  & Conditional](https://github.com/ancatmara/python-for-dh/blob/master/Classes/4/Expressions%20%26%20Conditionals.ipynb)|[HW4](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW4.md)|--
 |17 февраля|[Functions](https://www.coursera.org/learn/python/lecture/M01HR/4-1-using-functions)|[Dictionaries & Functions](https://github.com/ancatmara/python-for-dh/blob/master/Classes/5/Dictionaries%20%26%20Functions.ipynb)|[HW5](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW5.md)|--
-|24 февраля|[Loops and Iteration](https://www.coursera.org/learn/python/lecture/hd0e1/5-1-loops-and-iteration)|[Loops & Iteration](https://github.com/ancatmara/python-for-dh/blob/master/Classes/6/Loops%20%26%20Iteration.ipynb)||
-|3 марта|[Working with Text in Python](https://www.coursera.org/learn/python-text-mining/lecture/y5C24/introduction-to-text-mining)|||
+|24 февраля|[Loops and Iteration](https://www.coursera.org/learn/python/lecture/hd0e1/5-1-loops-and-iteration)|[Loops & Iteration](https://github.com/ancatmara/python-for-dh/blob/master/Classes/6/Loops%20%26%20Iteration.ipynb)|[HW6](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW6.md)|**17 марта, сб, 23:59**
+|3 марта|[Working with Text in Python](https://www.coursera.org/learn/python-text-mining/lecture/y5C24/introduction-to-text-mining)|[Files](https://github.com/ancatmara/python-for-dh/blob/master/Classes/7/Files.ipynb)|[HW7](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW7.md)|--
 |10 марта|[Basic NLP](https://www.coursera.org/learn/python-text-mining/lecture/AZCCB/basic-natural-language-processing)|||
 |17 марта|[Text Classification](https://www.coursera.org/learn/python-text-mining/lecture/H05Dd/text-classification)|||
 |24 марта|[Topic Modelling](https://www.coursera.org/learn/python-text-mining/lecture/DpNWl/semantic-text-similarity)|||
