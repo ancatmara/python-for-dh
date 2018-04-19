@@ -34,7 +34,7 @@
 |10 марта|[Basic NLP](https://www.coursera.org/learn/python-text-mining/lecture/AZCCB/basic-natural-language-processing)|[Strings & List Comprehensions](https://github.com/ancatmara/python-for-dh/blob/master/Classes/8/Strings%20&%20List%20Comprehensions.ipynb)|[HW8](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW8.md)|--
 |17 марта|[Text Classification](https://www.coursera.org/learn/python-text-mining/lecture/H05Dd/text-classification)|[Regular Expressions](https://github.com/ancatmara/python-for-dh/blob/master/Classes/9-10/Regex.md)||
 |24 марта|[Topic Modelling](https://www.coursera.org/learn/python-text-mining/lecture/DpNWl/semantic-text-similarity)|[Regular Expressions in Python](https://github.com/ancatmara/python-for-dh/blob/master/Classes/9-10/Regex%20in%20Python.ipynb)||
-|7 апреля|QA Systems|||
+|7 апреля|QA Systems|[Basic NLP & Mystem](https://github.com/ancatmara/python-for-dh/blob/master/Classes/11/Basic%20NLP%20%26%20Mystem.ipynb)||
 |14 апреля|Distributional Semantics|||
 |21 апреля|Text Generation|||
 |28 апреля|[Networks](https://www.coursera.org/learn/python-social-network-analysis/lecture/moENa/networks-definition-and-why-we-study-them)|||
