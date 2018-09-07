@@ -1,5 +1,3 @@
-Дарья Максимова подготовила этот документ  [https://github.com/creaciond/digital_literary_studies/blob/master/DS_Store-gitignore.md](https://github.com/creaciond/digital_literary_studies/blob/master/DS_Store-gitignore.md) : 
-
 # Про .DS_Store
 Специально для счастливых обладателей машин на Mac OS X :)
 
@@ -49,3 +47,6 @@ _Внимание на левый нижний угол_
 ## Как настроить систему так, чтобы скрытые файлы отображались?
 
 Следуйте [инструкции](https://ochprosto.com/kak-pokazat-skrytye-fajly-na-mac-os/). Если она вам не нравится, загуглите "отображение скрытых файлов mac os x" :)
+
+***
+*[Дарья Максимова](https://github.com/creaciond/)*
