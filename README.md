@@ -12,7 +12,9 @@
 * [телеграм](https://t.me/NickVeld)
 * [вк](https://vk.com/kolabnya)
 
-**NB!** Форма для ваших контактных данных и ссылок на репозитории [тут](https://goo.gl/forms/AYCGyvmCDTGL3If33).
+### Важные ссылки
+* [**Telegram-чат**](https://t.me/joinchat/ADMP3Udx7TaLyTs_801hCA)
+* [**Форма для контактов и ссылок на репозитории**](https://goo.gl/forms/AYCGyvmCDTGL3If33).
 
 ### Python для гуманитаериев I
 
