@@ -41,9 +41,9 @@
 |-|------|---------|------------------|---------|
 |1.|8 сентября| [Git & Markdown](./Classes/1)|[HW0](./Homeworks/HW0.md)|22 сентября, 23.59|
 |2.|8 сентября|[Python Intro](./Classes/2)|[HW0](./Homeworks/HW0.md)|22 сентября, 23.59|
-|3.|15 сентября|[Data Types & Variables](./Classes/3)|||
-|4.|22 сентября||||
-|5.|22 сентября||||
+|3.|15 сентября|[Data Types & Variables](./Classes/3)|[HW1](./Homeworks/HW1.md)|6 октября, 23.59|
+|4.|22 сентября|[Expressions & Conditionals](./Classes/4)|[HW1](./Homeworks/HW1.md)|6 октября, 23.59|
+|5.|22 сентября|[Expressions & Conditionals](./Classes/4)|[HW1](./Homeworks/HW1.md)|6 октября, 23.59|
 |6.|29 сентября||||
 |7.|29 сентября (а), 6 октября (б)||||
 |8.|6 октября||||
