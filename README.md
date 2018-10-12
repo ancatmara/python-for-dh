@@ -44,9 +44,9 @@
 |4.|22 сентября|[Expressions & Conditionals](./Classes/4)|[HW1](./Homeworks/HW1.md)|6 октября, 23.59|
 |5.|22 сентября|[Expressions & Conditionals](./Classes/4)|[HW1](./Homeworks/HW1.md)|6 октября, 23.59|
 |6.|29 сентября|[Dictionaries & Functions](./Classes/5)|||
-|7.|29 сентября|[Dictionaries & Functions](./Classes/5)|||
-|8.|13 октября|[Loops & Iteration](./Classes/6)|||
-|9.|13 октября (а), 20 октября (б)|[Files](./Classes/7)|||
+|7.|29 сентября|[Loops & Iteration](./Classes/6)|||
+|8.|13 октября|[Files](./Classes/7)|||
+|9.|13 октября (а), 20 октября (б)|[Strings & List Comprehensions](./Classes/8)|||
 |Итоговое|20 октября||||
 
 ### Python для гуманитариев II
