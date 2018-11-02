@@ -13,9 +13,9 @@
 * [вк](https://vk.com/kolabnya)
 
 ### Важные ссылки
-* [**Ведомость**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTy2yhwc1z9Fq8bCt2iKnKQUlM0qMWQd3-0dTLR5igeHf8A3sQPjFPumPHoUrEkPo2UF7FFtA_OAnkg/pubhtml?gid=2082054642&single=true)
+* **Ведомость** 
 * [**Telegram-чат**](https://t.me/joinchat/ADMP3Udx7TaLyTs_801hCA)
-* [**Форма для контактов и ссылок на репозитории**](https://goo.gl/forms/AYCGyvmCDTGL3If33).
+* [**Форма для контактов и ссылок на гитхаб**](https://goo.gl/forms/BzgdQbl5URudUXdV2).
 
 ### Расписание
 
