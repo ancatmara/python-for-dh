@@ -42,9 +42,9 @@
 |2.|3 ноября|[Regular Expressions](./Classes/9-10)|||
 |3.|10 ноября|[Sberbank Data Science Journey](https://sdsj.sberbank.ai/ru/day)|||
 |4.|17 ноября|[Basic NLP & Mystem](./Classes/11)|||
-|5.|17 ноября|[Mystem & JSON](./Classes/12)|||
+|5.|17 ноября|[Basic NLP & Mystem](./Classes/11)|||
 |6.|24 ноября|[Mystem & JSON](./Classes/12)|||
-|7.|24 ноября|[NLTK]|(./Classes/14)||
+|7.|24 ноября|[NLTK](./Classes/14)||
 |8.|8 декабря|Word2vec||
 |9.|8 декабря|Word2vec|||
 |Итоговое|15 декабря||||
