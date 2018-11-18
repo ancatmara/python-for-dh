@@ -43,8 +43,8 @@
 |3.|10 ноября|[Sberbank Data Science Journey](https://sdsj.sberbank.ai/ru/day)|||
 |4.|17 ноября|[Basic NLP & Mystem](./Classes/11)|||
 |5.|17 ноября|[Mystem & JSON](./Classes/12)|||
-|6.|24 ноября|[NLTK & Spacy](./Classes/14)|||
-|7.|24 ноября|Natasha & Yargy|||
+|6.|24 ноября|[Mystem & JSON](./Classes/12)|||
+|7.|24 ноября|[NLTK]|(./Classes/14)||
 |8.|8 декабря|Word2vec||
-|9.|8 декабря|[Matplotlib](./Classes/13)|||
+|9.|8 декабря|Word2vec|||
 |Итоговое|15 декабря||||
