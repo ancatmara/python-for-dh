@@ -21,14 +21,14 @@
 
 |№| Дата | Семинар | Домашнее задание | Дедлайн |
 |-|------|---------|------------------|---------|
-|1.|8 сентября| [Git & Markdown](./Classes/1)|[HW0](./Homeworks/HW0.md)|22 сентября, 23.59|
+|1.|8 сентября| [Git & Markdown](./Classes/1)|||
 |2.|8 сентября|[Python Intro](./Classes/2)|[HW0](./Homeworks/HW0.md)|22 сентября, 23.59|
-|3.|15 сентября|[Data Types & Variables](./Classes/3)|[HW1](./Homeworks/HW1.md)|6 октября, 23.59|
-|4.|22 сентября|[Expressions & Conditionals](./Classes/4)|[HW1](./Homeworks/HW1.md)|6 октября, 23.59|
+|3.|15 сентября|[Data Types & Variables](./Classes/3)|||
+|4.|22 сентября|[Expressions & Conditionals](./Classes/4)|||
 |5.|22 сентября|[Expressions & Conditionals](./Classes/4)|[HW1](./Homeworks/HW1.md)|6 октября, 23.59|
-|6.|29 сентября|[Dictionaries & Functions](./Classes/5)|[HW2](./Homeworks/HW2.md)|27 октября, 23.59|
-|7.|29 сентября|[Loops & Iteration](./Classes/6)|[HW2](./Homeworks/HW2.md)|27 октября, 23.59|
-|8.|13 октября|[Files](./Classes/7)|[HW2](./Homeworks/HW2.md)|27 октября, 23.59|
+|6.|29 сентября|[Dictionaries & Functions](./Classes/5)|||
+|7.|29 сентября|[Loops & Iteration](./Classes/6)|||
+|8.|13 октября|[Files](./Classes/7)|||
 |9.|13 октября (а), 20 октября (б)|[Strings & List Comprehensions](./Classes/8)|[HW2](./Homeworks/HW2.md)|27 октября, 23.59|
 |Итоговое|20 октября||||
 
@@ -43,7 +43,7 @@
 |3.|10 ноября|[Sberbank Data Science Journey](https://sdsj.sberbank.ai/ru/day)|||
 |4.|17 ноября|[Basic NLP & Mystem](./Classes/11)|||
 |5.|17 ноября|[Basic NLP & Mystem](./Classes/11)|||
-|6.|24 ноября|[Mystem & JSON](./Classes/12)|||
+|6.|24 ноября|[Mystem & JSON](./Classes/12)|[HW3](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW3.md)|8 декабря, 23.59|
 |7.|24 ноября|[NLTK](./Classes/14)||
 |8.|8 декабря|Word2vec||
 |9.|8 декабря|Word2vec|||
