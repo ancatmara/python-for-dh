@@ -44,7 +44,7 @@
 |4.|17 ноября|[Basic NLP & Mystem](./Classes/11)|||
 |5.|17 ноября|[Basic NLP & Mystem](./Classes/11)|||
 |6.|24 ноября|[Mystem & JSON](./Classes/12)|[HW3](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW3.md)|8 декабря, 23.59|
-|7.|24 ноября|[NLTK](./Classes/14)||
-|8.|8 декабря|Word2vec||
-|9.|8 декабря|Word2vec|||
+|7.|24 ноября|[Mystem & JSON](./Classes/12)||
+|8.|8 декабря|[NLTK](./Classes/13)||
+|9.|8 декабря|[NLTK](./Classes/13)|||
 |Итоговое|15 декабря||||
