@@ -47,4 +47,5 @@
 |7.|24 ноября|[Mystem & JSON](./Classes/12)||
 |8.|8 декабря|[NLTK](./Classes/13)||
 |9.|8 декабря|[NLTK](./Classes/13)|||
-|Итоговое|15 декабря||||
+|10.|15 декабря|[Matplotlib](./Classes/14)|||
+|11.|15 декабря|[Matplotlib](./Classes/14)|||
