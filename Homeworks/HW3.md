@@ -2,7 +2,7 @@
 
 Выполняется работа строго в репозитории `python-dh-hw` в файле `HW3.ipynb`, лежащем в корне репозитория. 
 
-**NB!** Перед выполнением обязательно посмотрите [образец оформления работы](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW-1.ipynb).
+**NB!** Перед выполнением обязательно посмотрите [образец оформления работы](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW_example.ipynb).
 
 #### Задание №1 
 
