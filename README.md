@@ -48,4 +48,4 @@
 |8.|8 декабря|[NLTK](./Classes/13)||
 |9.|8 декабря|[NLTK](./Classes/13)|||
 |10.|15 декабря|[Matplotlib](./Classes/14)|||
-|11.|15 декабря|[Matplotlib](./Classes/14)|||
+|11.|15 декабря|[Matplotlib](./Classes/14)|[HW4](https://github.com/ancatmara/python-for-dh/blob/master/Homeworks/HW4.md)|22 декабря, 23.59|
