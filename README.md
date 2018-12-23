@@ -13,7 +13,7 @@
 * [вк](https://vk.com/kolabnya)
 
 ### Важные ссылки
-* **Ведомость** 
+* [**Ведомость**](https://docs.google.com/spreadsheets/d/e/2PACX-1vToVBZc271J-0qwMBU4p75ZuHKIObr1za_NJy368Rau4yynIt47Eyqv4LhsbzzrU-xHz3GSi7h4JDpt/pubhtml?gid=1379359774&single=true) 
 * [**Telegram-чат**](https://t.me/joinchat/ADMP3Udx7TaLyTs_801hCA)
 * [**Форма для контактов и ссылок на гитхаб**](https://goo.gl/forms/BzgdQbl5URudUXdV2).
 
