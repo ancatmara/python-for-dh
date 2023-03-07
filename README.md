@@ -6,12 +6,6 @@
 * [телеграм](https://t.me/ancatmara)
 * [вк](https://vk.com/ancatmara)
 
-**Ассистент**: Николай Вельдяйкин
-
-* [почта](mailto:noveldyaykin@edu.hse.ru)
-* [телеграм](https://t.me/NickVeld)
-* [вк](https://vk.com/kolabnya)
-
 ### Важные ссылки
 * [**Ведомость**](https://docs.google.com/spreadsheets/d/e/2PACX-1vToVBZc271J-0qwMBU4p75ZuHKIObr1za_NJy368Rau4yynIt47Eyqv4LhsbzzrU-xHz3GSi7h4JDpt/pubhtml?gid=1379359774&single=true) 
 * [**Telegram-чат**](https://t.me/joinchat/ADMP3Udx7TaLyTs_801hCA)
